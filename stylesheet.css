@@ -1,0 +1,122 @@
+body{
+	font-family : "Lucida Grade";
+	margin : 0;
+}
+
+li{
+	list-style : none;
+	float : left	;
+	padding : 0px 20px;
+}
+
+img{
+	height : 60px;
+	float : left;
+	padding : 30px 20px;
+}
+
+.header{
+	height : 120px;
+	background-color : skyblue;
+	color : black;	
+}
+
+.header-logo{
+	color : black;
+	font-size : 40px;
+	float : left;
+	padding : 40px 10px;
+}
+
+.header-list{
+	font-size: 20px;
+	float : right;
+	padding : 37px 30px;
+}
+
+.main{
+	padding : 5px 50px;
+	background-color : blue;
+}
+
+.copy-container h1{
+	font-size: 70px;
+}
+
+.copy-container h2{
+	font-size: 40px;
+}
+
+.copy-container span{
+	color : black;
+}
+
+.contents {
+	height: 320px;
+	margin-top: 100px;
+}
+
+.selection-title{
+	border-bottom: 2px solid black;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+}
+
+.contents-item {
+	float: left;
+	margin-right: 40px;
+}
+
+.contents-item img {
+	height: 100px;
+	width: 90px;
+	padding: 25px 58px;	
+}
+
+.contents-item p {
+	padding: 0px 83px;
+	font-size: 16px;
+	width: 30px;
+}
+
+img{
+	height : 50px;
+	float : left;
+	padding : 40px 20px;
+}
+
+.footer{
+	height : 220px;
+	padding:30px 15px;
+	background-color : skyblue;
+	color : black;	
+       
+       
+
+}
+
+.footer-logo{
+	color : black;
+	font-size : 35px;
+	float : left;
+	padding : 25px 5px;
+}
+
+.footer-list{
+	font-size: 20px;
+	float : right;
+	padding : 37px 30px;
+}
+
+.footer-link{
+	font-size: 15px;
+	float : right;
+}
+
+
+      
+
+
+
+
